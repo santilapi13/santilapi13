@@ -1,5 +1,7 @@
 ### Hi there! I'm Santiago
+
 LinkedIn: https://www.linkedin.com/in/santiago-nicolás-lapiana-92752a206/
+Contact: santilapiana02@gmail.com
 
 <!--
 **santilapi13/santilapi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
