@@ -1,6 +1,6 @@
 ### Hi there! I'm Santiago
 
-LinkedIn: https://www.linkedin.com/in/santiago-nicolás-lapiana-92752a206/
+LinkedIn: https://www.linkedin.com/in/santiago-nicolás-lapiana-92752a206/ 
 Contact: santilapiana02@gmail.com
 
 <!--
