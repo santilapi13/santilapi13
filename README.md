@@ -1,5 +1,8 @@
 ### Hi there! I'm Santiago
 
+- Front-End Developer
+- Studying Software Engineering at Universidad Nacional de Mar del Plata, Argentina.
+
 LinkedIn: https://www.linkedin.com/in/santiago-nicolás-lapiana-92752a206/
 
 Contact: santilapiana02@gmail.com
