@@ -1,6 +1,5 @@
 ### Hi there! I'm Santiago
 
-- Front-End Developer
 - 4th year Software Engineering student at Universidad Nacional de Mar del Plata, Argentina.
 
 LinkedIn: https://www.linkedin.com/in/santiago-nicolás-lapiana-92752a206/
