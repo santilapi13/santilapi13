@@ -1,6 +1,6 @@
 ### Hi there! I'm Santiago
 
-- 🎓 4th year Software Engineering student at Universidad Nacional de Mar del Plata, Argentina.
+- 🎓 5th year Software Engineering student at Universidad Nacional de Mar del Plata, Argentina.
 - 🎮 Independent Videogame Developer.
 - 💻 Backend Developer.
 
