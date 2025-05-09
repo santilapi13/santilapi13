@@ -1,8 +1,8 @@
 ### Hi there! I'm Santiago
 
-- 🎓 5th year Software Engineering student at Universidad Nacional de Mar del Plata, Argentina.
-- 🎮 Independent Videogame Developer.
+- 🎓 Software Engineer (MEng equivalent at Universidad Nacional de Mar del Plata, Argentina)
 - 💻 Backend Developer.
+- 🎮 Independent Videogame Developer.
 
 LinkedIn: https://www.linkedin.com/in/santiago-nicolás-lapiana-92752a206/
 
